@@ -327,7 +327,7 @@ def process_query(query: str) -> str:
 # This creates a styled header for the chatbot interface.
 st.markdown("""
     <h1 style="text-shadow: 2px 2px 5px #4CAF50; font-weight: bold; text-align: center;">
-         💲Paragraf Lex Regulacija Chatbot📝
+         Paragraf Lex Regulacija Chatbot
     </h1>
 """, unsafe_allow_html=True)
 
@@ -335,8 +335,8 @@ st.markdown("""
 # Provides a welcoming message and a brief description of the chatbot.
 st.markdown("""
     <p style="font-size: 18px; color: #000000; line-height: 1.6; text-align: center;">
-        👋 Dobrodošli u <strong>Paragraf Lex</strong>, vašeg pouzdanog vodiča za sve pravne regulative i zakone u Srbiji. <br>
-        💡 Pomoći ću vam sa bilo kojim pitanjima ili pružiti uvide u 📝 pravne regulative i više.
+         Dobrodošli u <strong>Paragraf Lex</strong>, vašeg pouzdanog vodiča za sve pravne regulative i zakone u Srbiji. <br>
+         Pomoći ću vam sa bilo kojim pitanjima ili pružiti uvide u  pravne regulative i više.
     </p>
 """, unsafe_allow_html=True)
 
