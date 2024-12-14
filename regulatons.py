@@ -346,10 +346,10 @@ st.sidebar.title("Česta Pitanja")
 
 # **Define Common Queries**
 prompts = [
-    "1. Da li stranci mogu kupiti poljoprivredno zemljište u Srbiji?",
-    "2. Koji su koraci za pokretanje preduzeća u Srbiji?",
-    "3. Kako funkcionše poreska prijava za fizička lica?",
-    "4. Šta je Zakon o radu i koje su njegove osnovne odredbe?",
+    "1. Koji su uslovi za osnivanje društva sa ograničenom odgovornošću (DOO) u Srbiji?",
+    "2. Koji su rokovi za prijavu promene vlasnika firme u registru?",
+    "3. Da li je probni rad obavezan u ugovoru o radu?",
+    "4. Koliko iznosi minimalna zarada u Srbiji?",
 ]
 
 # **Display Each Common Query in the Sidebar**
