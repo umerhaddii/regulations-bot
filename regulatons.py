@@ -306,7 +306,7 @@ def process_query(query: str) -> str:
 # This creates a styled header for the chatbot interface.
 st.markdown("""
     <h1 style="text-shadow: 2px 2px 5px #4CAF50; font-weight: bold; text-align: center;">
-         Paragraf Lex Regulacija Chatbot
+         Paragraf AI (Bot Sa Pravilima)
     </h1>
 """, unsafe_allow_html=True)
 
